@@ -1,0 +1,1 @@
+The Brownser on the Sony Bravia KD55X870c doesn't seem to play well with the CSS and layout of some MagicMirror² setups (at least with [the one I have created here](https://github.com/hypest/magic_mirror_hypest), having some zoom issues) so, created this custom Android app to host a WebView as the client.
